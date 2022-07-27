@@ -393,8 +393,15 @@ footer ul.social {
 
 .service-images .service-images-swiper .swiper-slide {
     width: fit-content !important;
-    /* margin-left: 20px;
-    margin-right: 20px; */
+}
+
+.product-contact-btn a {
+    color: white;
+}
+
+.all-products .single-item .thumb {
+    display: flex;
+    justify-content: center;
 }
 
 /* .service-images-swiper .swiper-button-next {
