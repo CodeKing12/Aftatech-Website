@@ -312,3 +312,15 @@ footer.demo {
 .all-products .single-item .blog-style-one {
     transition: all 0.4s ease-in-out;
 }
+
+.w-fit {
+    width: fit-content;
+}
+
+footer .logo {
+    height: 150px;
+}
+
+footer ul.social {
+    margin-top: 5px
+}
