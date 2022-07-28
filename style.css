@@ -404,6 +404,11 @@ footer ul.social {
     justify-content: center;
 }
 
-/* .service-images-swiper .swiper-button-next {
+.home-services-list li img {
+    opacity: 1 !important;
+}
 
-} */
+.process-area {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
