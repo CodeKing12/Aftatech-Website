@@ -412,3 +412,38 @@ footer ul.social {
     padding-top: 70px;
     padding-bottom: 70px;
 }
+
+.gallery-container img {
+    width: 200px;
+}
+
+.nGY2GThumbnailTitle {
+    color: black;
+    background-color: transparent;
+    margin: 0 10px;
+}
+
+.nGY2 .nGY2GThumbnailLabel {
+    background-color: #001659 !important;
+    bottom: -30px !important;
+    display: none !important;
+}
+
+.nGY2 .nGY2GThumbnailAlbumTitle, .nGY2 .nGY2GThumbnailImageTitle {
+    color: #fff;
+    text-shadow: unset !important;
+    margin: 5px 1px 1px;
+    white-space: nowrap;
+    overflow: hidden;
+    display: none;
+}
+
+.nGY2 .nGY2GThumbnail {
+    overflow: unset !important;
+    border: unset !important;
+    /* margin: 10px; */
+}
+
+.nGY2 .nGY2GThumbnail .nGY2GThumbnailImg {
+    width: 150px;
+}
